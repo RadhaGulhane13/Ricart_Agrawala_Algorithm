@@ -1,0 +1,3 @@
+P1: CheckBalance (1, A)
+P2: CheckBalance (10, B)
+P3: CheckBalance (100, C)
